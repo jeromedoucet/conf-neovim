@@ -7,6 +7,7 @@
 - git
 - [neovim](https://neovim.io/) (with python3 support !)
 - [the fuck](https://github.com/nvbn/thefuck)
+- docker
 
 ## neovim dependencies
 - [plug](https://github.com/junegunn/vim-plug)
