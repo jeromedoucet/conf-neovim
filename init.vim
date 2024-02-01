@@ -34,6 +34,11 @@ Plug 'hashivim/vim-terraform'
 Plug 'chaquotay/ftl-vim-syntax'
 Plug 'instant-markdown/vim-instant-markdown', {'for': 'markdown', 'do': 'yarn install'}
 
+" snippet plugins
+Plug 'marcweber/vim-addon-mw-utils'
+Plug 'garbas/vim-snipmate'
+Plug 'honza/vim-snippets'
+
 
 call plug#end()
 
